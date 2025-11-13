@@ -1,0 +1,15 @@
+{
+  "product": "breezly-esp32-wroom32e",
+  "model": "wroom32e",
+  "channel": "prod",
+  "version": "1.0.18",
+  "url": "https://Camarade-dev.github.io/breezly-firmware-dist/firmware/esp32/wroom32e/prod/breezly-esp32-wroom32e-1.0.18.bin",
+  "size": 1437312,
+  "sha256": "2015de2c046e1d0f778fab64d3f9e99cdfae2e13bc25cd5b2281d089c7a9f3d9",
+  "released_at": "2025-11-13T22:46:27.816Z",
+  "sig": "MEQCIFI4F2aOxUj8C+81iVKAPlVDNUNbQXgMIas8fsfFI2EGAiAzGiXWLcT0kKir0KQtyoZKBM1N74Yun6AfB9nff3j1qw==",
+  "rollout": 100,
+  "force": false,
+  "min_version": "",
+  "blocked_versions": []
+}
